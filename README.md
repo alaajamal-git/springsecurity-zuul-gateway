@@ -10,7 +10,7 @@ Configuration steps :
 
 run example
 1. sinup:
-post   :  http://10.3.14.48:8011/users-ws/users
+post   :  http://localhost:8011/users-ws/users
 body   :  
 <UserRest>
     <firatname>Ziad</firatname>
